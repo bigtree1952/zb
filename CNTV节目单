@@ -1,0 +1,166 @@
+EPG    CNTV节目单
+cntv-cctv1, CCTV-1 综合
+cntv-cctv2, CCTV-2 财经
+cntv-cctv3, CCTV-3 文艺
+cntv-cctv4, CCTV-4 亚洲
+cntv-cctveurope, CCTV-4 欧洲
+cntv-cctvamerica, CCTV-4 美洲   
+cntv-cctv5, CCTV-5 体育
+cntv-cctv6, CCTV-6 电影
+cntv-cctv7, CCTV-7 军事农业
+cntv-cctv8, CCTV-8 电视剧
+cntv-cctvjilu, CCTV-9 纪录
+cntv-cctvdoc, CCTV-9 纪录(英)
+cntv-cctv10, CCTV-10 科教
+cntv-cctv11, CCTV-11 戏曲  
+cntv-cctv12, CCTV-12 社会与法
+cntv-cctv13, CCTV-13 新闻
+cntv-cctvchild, CCTV-14 少儿
+cntv-cctv15, CCTV-15 音乐
+cntv-cctv9, CCTV-NEWS
+cntv-cctvfrench, CCTV-法语
+cntv-cctvxiyu, CCTV-西班牙语
+cntv-cctvarabic, CCTV-阿拉伯语
+cntv-cctvrussian, CCTV-俄语
+cntv-cctv5plus, CCTV体育赛事
+cntv-cctvdianying, CCTV 电影
+cntv-shijiedili, CCTV世界地理
+cntv-zhongxueshengpindao, CCTV中学生
+cntv-dianshigouwu, CCTV中视购物
+cntv-faxianzhilv, CCTV发现之旅
+cntv-guofang, CCTV国防军事
+cntv-taiqiu, CCTV央视台球
+cntv-jingpin, CCTV央视文化精品
+cntv-shishang, CCTV女性时尚
+cntv-cctvyule, CCTV娱乐
+cntv-hjjc, CCTV怀旧剧场
+cntv-cctvxiqu, CCTV戏曲
+cntv-xinkedongman, CCTV新科动漫
+cntv-cctvqixiang, CCTV气象
+cntv-zhinan, CCTV电视指南
+cntv-diyijuchang, CCTV第一剧场
+cntv-cctvlaogushi, CCTV老故事
+cntv-fyjc, CCTV风云剧场
+cntv-cctvfyzq, CCTV风云足球
+cntv-fyyy, CCTV风云音乐
+cntv-cctvgaowang, CCTV高尔夫网球
+cntv-anhui, 安徽卫视  
+cntv-btv1, 北京卫视
+cntv-bingtuan, 兵团卫视
+cntv-chongqing, 重庆卫视
+cntv-dongfang, 东方卫视
+cntv-dongnan, 东南卫视
+cntv-guangdong, 广东卫视
+cntv-guangxi, 广西卫视
+cntv-gansu, 甘肃卫视
+cntv-guizhou, 贵州卫视
+cntv-hebei, 河北卫视
+cntv-henan, 河南卫视
+cntv-heilongjiang, 黑龙江卫视
+cntv-hubei, 湖北卫视
+cntv-hunan, 湖南卫视
+cntv-jilin, 吉林卫视
+cntv-jiangsu, 江苏卫视
+cntv-jiangxi, 江西卫视
+cntv-liaoning, 辽宁卫视
+cntv-travel, 旅游卫视
+cntv-neimenggu, 内蒙古卫视
+cntv-ningxia, 宁夏卫视
+cntv-qinghai, 青海卫视
+cntv-shandong, 山东卫视
+cntv-sdetv, 山东教育台
+cntv-shenzhen, 深圳卫视
+cntv-shan3xi, 陕西卫视
+cntv-shan1xi, 山西卫视
+cntv-sichuan, 四川卫视
+cntv-tianjin, 天津卫视
+cntv-xizang, 西藏卫视
+cntv-xiamen, 厦门卫视
+cntv-xinjiang, 新疆卫视
+cntv-xianggangweishi, 香港卫视
+cntv-yanbian, 延边卫视
+cntv-yunnan, 云南卫视
+cntv-zhejiang, 浙江卫视
+cntv-dvshenghuo, DV生活
+cntv-cctv3d, 中国3D电视试验
+cntv-shuhua, 书画
+cntv-xianfengjilu, 先锋纪录
+cntv-wsjk, 卫生健康
+cntv-shuowenjiezi, 国学(说文解字)
+cntv-tianyuanweiqi, 天元围棋
+cntv-baobeijia, 宝贝家
+cntv-caimingzaixian, 彩民在线
+cntv-kuailechuidiao, 快乐垂钓
+cntv-sheyingpindao, 摄影
+cntv-wenwubaoku, 文物宝库
+cntv-zaoqijiaoyu, 早期教育
+cntv-cctvliyuan, 梨园
+cntv-wushushijie, 武术世界
+cntv-cctvqimo, 汽摩
+cntv-youxijingji, 游戏竞技
+cntv-huanqiuqiguan, 环球奇观
+cntv-xiandainvxing, 现代女性
+cntv-liuxueshijie, 留学世界
+cntv-cctvlaonianfu, 老年福
+cntv-yingyufudao, 英语辅导
+cntv-cctvzhengquanzixun, 证券资讯
+cntv-cctvliangzhuang, 靓妆
+cntv-gaoerfu, 高尔夫
+cntv-btv2, BTV文艺
+cntv-btv3, BTV科教
+cntv-btv4, BTV影视
+cntv-btv5, BTV财经
+cntv-btv6, BTV体育
+cntv-btv7, BTV生活
+cntv-btv8, BTV青少
+cntv-btv9, BTV新闻
+cntv-btvchild, BTV卡酷少儿
+cntv-btvjishi, BTV纪实
+cntv-btvInternational, BTV国际
+cntv-tianjin1, 天津1套
+cntv-tianjin2, 天津2套
+cntv-tianjinbh, 滨海新闻综合
+cntv-tianjinbh2, 滨海综艺频道
+cntv-guangxizy, 广西综艺
+cntv-zhuhaiyitao, 珠海一套
+cntv-zhuhaiertao, 珠海二套
+cntv-cdtv1, 成都新闻综合
+cntv-cdtv2new, 成都经济资讯服务
+cntv-cdtv5, 成都公共
+cntv-liaoningdushi, 辽宁都市
+cntv-nbtv1, 宁波一套
+cntv-nbtv2, 宁波二套
+cntv-nbtv3, 宁波三套
+cntv-nbtv4, 宁波四套
+cntv-nbtv5, 宁波五套
+cntv-xiamen1, 厦门一套
+cntv-xiamen2, 厦门二套
+cntv-xiamen3, 厦门三套
+cntv-xiamen4, 厦门四套
+cntv-cetv1, CETV-1
+cntv-cetv2, CETV-2
+cntv-cetv3, CETV-3
+cntv-cztv1, 潮州综合
+cntv-cztv2, 潮州公共
+cntv-foshanxinwen, 佛山新闻综合
+cntv-shaoguanzonghe, 韶关综合
+cntv-shijiazhuangsantao, 石家庄三套
+cntv-neimengwh, 内蒙古文化频道
+cntv-tsbztv2, 巴音郭勒蒙语频道
+cntv-hubeigonggong, 湖北公共
+cntv-hubeijiaoyu, 湖北教育
+cntv-hubeiyingshi, 湖北影视
+cntv-hubeijingshi, 湖北经视
+cntv-hubeigouwu, 湖北购物
+cntv-xiangyangtai, 襄阳广播电视台
+cntv-nantongxinwen, 南通新闻频道
+cntv-nantongshejiao, 南通社教频道
+cntv-fyxw, 阜阳新闻综合频道
+cntv-fyds, 阜阳都市频道
+cntv-fygg, 阜阳公共频道
+cntv-fykj, 阜阳教科农频道
+cntv-tsxjtv2, 新疆维语综合频道
+cntv-tsxjtv3, 新疆哈语综合频道
+cntv-tsxjtv5, 新疆维语综艺频道
+cntv-tsxjtv8, 新疆哈语综艺频道
+cntv-tsxjtv9, 新疆维语经济生活频道
