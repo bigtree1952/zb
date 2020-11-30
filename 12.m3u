@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-3综艺
+http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 ,CCTV-4国际
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8
