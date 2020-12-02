@@ -1,4 +1,4 @@
- 央视频道
+ 央视频道,#genre#
 CCTV-1综合,http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8#http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8,cntv-cctv1
 CCTV-2财经,http://117.135.56.6:6060/cms001/ch00000090990000001012/index.m3u8#http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls,cntv-cctv2
 CCTV-3综艺,http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8#http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8#http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8,cntv-cctv3
@@ -15,9 +15,7 @@ CCTV-13新闻,http://39.135.135.58/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3
 CCTV-14少儿,http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8#http://117.169.120.160:8080/live/cctv-14/1.m3u8,cntv-cctv14
 CCTV-15音乐,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8#http://117.169.120.160:8080/live/cctv-15/1.m3u8,cntv-cctv15
 CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8,cntv-cctv17
-CCTV-18农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8,cntv-cctv17
-省市频道
-省市频道
+省市频道,#genre#
 凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 CHC家庭影院,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 新闻综合HD,http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8,tvming-SHNews
